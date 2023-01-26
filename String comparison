@@ -1,0 +1,14 @@
+package pak2_revision;
+
+public class Stringcomparision {
+	public static void main(String[]arg) {
+		String s1= "roshan";
+		String s2= "goshan";
+		if(s1==s2) {
+			System.out.println("Valid");
+		}else {
+			System.out.println("Invalid");
+		}
+	}
+
+}
