@@ -1,0 +1,7 @@
+package pak3;
+public class Hashcode{
+public static void main(String[]arg){
+String name= "roshan";
+System.out.println(name.hashcode());
+}
+}
